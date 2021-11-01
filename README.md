@@ -1,4 +1,4 @@
-# Kenblob - A Discord Bothe
+# Kenblob - A Discord Bot
 This is the website for KenBlob the Discord Bot, this is not meant to be shared but we had to host it on Github Pages. 
 
 ## Permission
