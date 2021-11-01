@@ -1,0 +1,44 @@
+h3 {
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+  padding: 25px 0;
+  font-size: 35px;
+}
+
+body {
+  background-color: #1d1e28
+
+}
+
+::selection {
+  color: green;
+}
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+tr {
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+td {
+  padding: 12px;
+  border-bottom: 1px solid #ddd;
+}
+
+
+
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+}
